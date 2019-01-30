@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servers>
+  <server auto-publish-setting="2" auto-publish-time="1" com.springsource.tcserver.asf="false" com.springsource.tcserver.name="Pivotal1" configuration-id="/Servers/Pivotal1 - Pivotal tc Server Developer Edition-config" deployDir="wtpwebapps" hostname="localhost" id="Pivotal1 - Pivotal tc Server Developer Edition" name="Pivotal1 - Pivotal tc Server Developer Edition" runtime-id="Pivotal tc Server Developer Edition (Runtime) v3.2" saveSeparateContextFiles="true" server-type="com.pivotal.server.tc.80" server-type-id="com.pivotal.server.tc.80" start-timeout="120" stop-timeout="15" testEnvironment="false" timestamp="6">
+    <list key="modules" value0="fkcci::org.eclipse.jst.jee.server:fkcci::jst.web::2.5" value1="bulk-data-api::org.eclipse.jst.jee.server:bulk-data-api::jst.web::2.5"/>
+  </server>
+  <server auto-publish-setting="2" auto-publish-time="1" configuration-id="/Servers/Tomcat v9.0 Server at localhost-config" deployDir="wtpwebapps" hostname="localhost" id="Tomcat v9.0 Server at localhost" name="Tomcat v9.0 Server at localhost" runtime-id="Apache Tomcat v9.0" server-type="org.eclipse.jst.server.tomcat.90" server-type-id="org.eclipse.jst.server.tomcat.90" start-timeout="120" stop-timeout="15" testEnvironment="true" timestamp="5">
+    <list key="modules" value0="secure-backend-app::org.eclipse.jst.jee.server:secure-backend-app::jst.web::2.5" value1="fkcci::org.eclipse.jst.jee.server:fkcci::jst.web::2.5"/>
+  </server>
+</servers>

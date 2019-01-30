@@ -1,0 +1,4 @@
+FROM java:8
+EXPOSE 8080
+ADD /target/fkcci.jar fkcci.jar
+ENTRYPOINT ["java","-jar","fkcci.jar"]

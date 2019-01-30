@@ -1,0 +1,6 @@
+#Tomcat publish data
+#Mon Oct 15 14:46:34 IST 2018
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\it-su\\.m2\\repository\\org\\springframework\\spring-web\\4.0.3.RELEASE\\spring-web-4.0.3.RELEASE.jar=C\:\\Users\\it-su\\Downloads\\spring-tool-suite-3.9.2.RELEASE-e4.7.2-win32-x86_64\\sts-bundle\\pivotal-tc-server-developer-3.2.8.RELEASE\\Pivotal1\\wtpwebapps\\fkcci\\WEB-INF\\lib\\spring-web-4.0.3.RELEASE.jar
+org.eclipse.jst.jee.server\:fkcci=C\:\\Users\\it-su\\Downloads\\spring-tool-suite-3.9.2.RELEASE-e4.7.2-win32-x86_64\\sts-bundle\\pivotal-tc-server-developer-3.2.8.RELEASE\\Pivotal1\\wtpwebapps\\fkcci
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\it-su\\.m2\\repository\\org\\springframework\\spring-web\\4.0.7.RELEASE\\spring-web-4.0.7.RELEASE.jar=C\:\\Users\\it-su\\Downloads\\spring-tool-suite-3.9.2.RELEASE-e4.7.2-win32-x86_64\\sts-bundle\\pivotal-tc-server-developer-3.2.8.RELEASE\\Pivotal1\\wtpwebapps\\bulk-data-api\\WEB-INF\\lib\\spring-web-4.0.7.RELEASE.jar
+org.eclipse.jst.jee.server\:bulk-data-api=C\:\\Users\\it-su\\Downloads\\spring-tool-suite-3.9.2.RELEASE-e4.7.2-win32-x86_64\\sts-bundle\\pivotal-tc-server-developer-3.2.8.RELEASE\\Pivotal1\\wtpwebapps\\bulk-data-api

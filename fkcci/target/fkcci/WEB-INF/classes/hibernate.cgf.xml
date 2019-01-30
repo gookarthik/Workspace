@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-configuration PUBLIC
+    "-//Hibernate/Hibernate Configuration DTD//EN"
+    "http://hibernate.sourceforge.net/hibernate-configuration-3.0.dtd">
+
+<hibernate-configuration>
+	<session-factory>
+		<mapping class="com.xyram.fkcci.model.UserLogin"></mapping>
+		<mapping class="com.xyram.fkcci.model.Tappals"></mapping>
+		<mapping class="com.xyram.fkcci.model.Comments"></mapping>
+		<mapping class="com.xyram.fkcci.model.ToName"></mapping>
+		<mapping class="com.xyram.fkcci.model.Visitors"></mapping>
+		<mapping class="com.xyram.fkcci.model.Employee"></mapping>
+	</session-factory>
+</hibernate-configuration>
